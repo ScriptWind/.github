@@ -7,11 +7,13 @@
 
 <p align="center">
   <a href="https://scriptwind.com" target="_blank"><b>Website</b></a> •
-  <a href="https://github.com/ScriptWind" target="_blank"><b>GitHub</b></a> •
+  <a href="https://www.facebook.com/scriptwind" target="_blank"><b>Facebook</b></a> •
   <a href="https://www.linkedin.com/company/scriptwind" target="_blank"><b>LinkedIn</b></a> •
   <a href="https://x.com/script_wind" target="_blank"><b>X</b></a> •
   <a href="https://www.youtube.com/@scriptwind" target="_blank"><b>YouTube</b></a> •
-  <a href="https://www.instagram.com/scriptwind" target="_blank"><b>Instagram</b></a>
+  <a href="https://www.instagram.com/scriptwind" target="_blank"><b>Instagram</b></a> •
+  <a href="https://www.tiktok.com/@scriptwind" target="_blank"><b>TikTok</b></a> •
+  <a href="https://www.threads.com/@scriptwind" target="_blank"><b>Threads</b></a>
 </p>
 
 ---
