@@ -19,7 +19,7 @@
 ## 👋 Who We Are
 
 **Script Wind** is a software studio serving for global clients. Building **SaaS**, **CRMs/ERPs**, and **mobile/web apps** with a pragmatic, production mindset.  
-We blend clean UX, reliable engineering, and cloud-native deployments to ship products that scale.
+We build powerful digital solutions that help businesses grow. From scalable mobile apps to high-performance websites, we turn your vision into reality with cutting-edge technology and creative excellence.
 
 > “Technology should empower people, not overwhelm them.”
 
