@@ -18,7 +18,7 @@
 
 ## 👋 Who We Are
 
-**Script Wind** is a design-first software studio based in **Oman** (serving global clients) building **SaaS**, **CRMs/ERPs**, and **mobile/web apps** with a pragmatic, production mindset.  
+**Script Wind** is a software studio serving for global clients. Building **SaaS**, **CRMs/ERPs**, and **mobile/web apps** with a pragmatic, production mindset.  
 We blend clean UX, reliable engineering, and cloud-native deployments to ship products that scale.
 
 > “Technology should empower people, not overwhelm them.”
