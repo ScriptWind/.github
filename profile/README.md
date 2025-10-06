@@ -137,6 +137,9 @@ Have a product in mind or need help scaling an existing build?
   <a href="https://www.instagram.com/scriptwind">
     <img src="https://img.shields.io/badge/Instagram-ed0e64?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   <a href="https://www.facebook.com/scriptwind">
+    <img src="https://img.shields.io/badge/Facebook-ed0e64?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
