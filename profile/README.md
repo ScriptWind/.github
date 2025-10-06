@@ -129,7 +129,7 @@ Have a product in mind or need help scaling an existing build?
     <img src="https://img.shields.io/badge/LinkedIn-ed0e64?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/script_wind">
-    <img src="https://img.shields.io/badge/(Twitter)-ed0e64?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-ed0e64?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@scriptwind">
     <img src="https://img.shields.io/badge/YouTube-ed0e64?style=for-the-badge&logo=youtube&logoColor=white" />
