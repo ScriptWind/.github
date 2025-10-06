@@ -143,6 +143,9 @@ Have a product in mind or need help scaling an existing build?
    <a href="https://www.tiktok.com/@scriptwind">
     <img src="https://img.shields.io/badge/Tiktok-ed0e64?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
+   <a href="https://www.threads.com/@scriptwind">
+    <img src="https://img.shields.io/badge/Threads-ed0e64?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
 </p>
 
 ---
