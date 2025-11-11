@@ -29,11 +29,11 @@ We build powerful digital solutions that help businesses grow. From scalable mob
 
 ## 🚀 What We Do
 
-- **Mobile App Development** – React Native (Expo) apps shipped to iOS & Android.
-- **Web Apps & Portals** – Next.js frontends with modern UI systems.
+- **Mobile App Development** – React Native (Expo) & Flutter apps shipped to iOS & Android.
+- **Web Apps & Portals** – React,Vue and Next.js frontends with modern UI systems.
 - **CRM / ERP / HR Systems** – Multi-tenant data models, RLS, and role hierarchies.
 - **WordPress Websites** – High-performance, brand-accurate marketing sites.
-- **Cloud & Automations** – AWS (S3/CloudFront/Lambda) + GitHub Actions CI/CD.
+- **Cloud & Automations** – AWS (S3/CloudFront/Lambda),GitHub Actions CI/CD and AI automation tools.
 
 ---
 
@@ -49,10 +49,8 @@ We build powerful digital solutions that help businesses grow. From scalable mob
   <img width="45" height="45" alt="Vue.js" src="https://github.com/user-attachments/assets/1c83afae-53f3-485c-83b9-5838b24738ab" />
   <img width="45" height="45" alt="Redux" src="https://github.com/user-attachments/assets/8b6c3030-17d5-4676-b17e-6bee42e99385" />
   <img width="45" height="45" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/7c1c3ac4-110c-4bfa-aff9-b6217e4df04e" />
-  <img width="45" height="45" alt="Material UI" src="https://github.com/user-attachments/assets/8ad33b59-b5ae-4beb-94fd-9fa005417c11" />
   <img width="45" height="45" alt="Veutify " src="https://github.com/user-attachments/assets/7a261813-d69e-47b1-a6a3-f222c84cd7ee" />
   <img width="45" height="45" alt="Vite" src="https://github.com/user-attachments/assets/11356e65-1f43-4e1a-88e3-67b29f1b2351" />
-  <img width="45" height="45" alt="Webpack" src="https://github.com/user-attachments/assets/1d31137c-e1a1-48cc-9109-2b3af8a2632d" />
   <img width="45" height="45" alt="Flutter" src="https://github.com/user-attachments/assets/d10e7c65-892c-4c4a-911f-9e2268de9e7e" />
 </p>
 
@@ -83,19 +81,6 @@ We build powerful digital solutions that help businesses grow. From scalable mob
  <img width="45" height="45" alt="Adobe Illustrator" src="https://github.com/user-attachments/assets/24708687-ac5a-4ceb-9aa2-0f964ee1e1e0" />
 </p>
 
-
----
-
-## 🌱 Open Source & Standards
-
-We publish internal utilities, UI kits, and automation blueprints whenever possible.  
-You’ll find:
-
-- **Reusable UI components** (Tailwind + ShadCN patterns)  
-- **Supabase RLS snippets** & database migration examples  
-- **GitHub Actions** templates for secure OIDC → AWS deployments
-
-Contributions are welcome on public repos—see each repo’s **CONTRIBUTING.md**.
 
 ---
 
