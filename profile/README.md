@@ -65,11 +65,6 @@ We build powerful digital solutions that help businesses grow. From scalable mob
 
 <p align="center">
  <img width="45" height="45" alt="AWS" src="https://github.com/user-attachments/assets/a408234b-1022-41e5-83a7-0c31b05ab37a" />
- <img width="45" height="45" alt="AWS S3 Bucket" src="https://github.com/user-attachments/assets/84c26e44-fbd7-4a32-b70e-474618b7e27d" />
- <img width="45" height="45" alt="AWS Lambda" src="https://github.com/user-attachments/assets/d388810e-cb69-4c5c-ab5d-3e5dd73080dc" />
- <img width="45" height="45" alt="AWS CloudFront" src="https://github.com/user-attachments/assets/f8adc3e2-1821-4aa0-a92f-8474c6848c15" />
- <img width="45" height="45" alt="AWS Route 53" src="https://github.com/user-attachments/assets/7817ba2a-0f87-4ddd-b5df-9a44be6fd0ea" />
- <img width="45" height="45" alt="AWS Lightsail" src="https://github.com/user-attachments/assets/6fff047a-446c-46eb-829a-30f1eee33fea" />
  <img width="45" height="45" alt="GitHub" src="https://github.com/user-attachments/assets/529d9b34-7ba4-4f1b-a2ab-c17c6aa5363f" />
  <img width="45" height="45" alt="GitHub Actions" src="https://github.com/user-attachments/assets/cd71563b-8208-47d7-994f-e25bc63a9ef8" />
  <img width="45" height="45" alt="Vercel" src="https://github.com/user-attachments/assets/dd17a854-f8a6-42fc-be10-41c26c02de86" />
