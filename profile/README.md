@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://scriptwind.com" target="_blank"><b>Website</b></a> •
   <a href="https://www.facebook.com/scriptwind" target="_blank"><b>Facebook</b></a> •
   <a href="https://www.linkedin.com/company/scriptwind" target="_blank"><b>LinkedIn</b></a> •
   <a href="https://x.com/script_wind" target="_blank"><b>X</b></a> •
